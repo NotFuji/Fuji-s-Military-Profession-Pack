@@ -1,8 +1,7 @@
 # Fuji's Military Profession Pack
 
-10 Military themed professions
-
-2 NPC classes
+ - 10 Military themed professions
+ - 2 NPC classes
 
 **Military Professions**
  - Rifleman
