@@ -16,6 +16,7 @@
             "charges": 30, 
             "contents-item": [ "shoulder_strap", "acog_scope", "grip", "suppressor" ] 
           },
+          { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "556", "charges": 30, "container-item": "stanag30" },
           { "item": "556", "charges": 30, "container-item": "stanag30" },
           { "item": "knife_rambo", "container-item": "scabbard" },
@@ -43,6 +44,7 @@
             "charges": 20, 
             "contents-item": [ "shoulder_strap", "bipod", "suppressor" ] 
           },
+          { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "762_51", "charges": 20, "container-item": "m14mag" },
           { "item": "knife_combat", "container-item": "sheath" }
         ]
@@ -68,6 +70,7 @@
             "charges": 20, 
             "contents-item": [ "shoulder_strap", "holo_sight", "suppressor" ] 
           },
+          { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "46mm", "charges": 20, "container-item": "hk46mag" },
           { "item": "46mm", "charges": 20, "container-item": "hk46mag" },
           { "item": "knife_combat", "container-item": "sheath" }
@@ -95,6 +98,7 @@
             "contents-item": [ "suppressor" ],
             "container-item": "holster"
           },
+          { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "57mm", "charges": 20, "container-item": "fn57mag" },
           { "item": "57mm", "charges": 20, "container-item": "fn57mag" }
         ]
@@ -120,6 +124,7 @@
             "charges": 30, 
             "contents-item": [ "shoulder_strap" ]
           },
+          { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "9mm", "charges": 30, "container-item": "mp5mag" },
           { "item": "9mm", "charges": 30, "container-item": "mp5mag" }
         ]
