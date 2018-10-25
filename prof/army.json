@@ -67,7 +67,7 @@
             "charges": 200, 
             "contents-item": [ "shoulder_strap", "holo_sight", "bipod" ] 
           },
-          { "item": "556", "charges": 100, "container-item": "belt223" }
+          { "item": "556", "charges": 200, "container-item": "belt223" }
         ]
       },
       "male": [ "boxer_shorts" ],

@@ -40,7 +40,7 @@
           { 
             "item": "M24", 
             "ammo-item": "762_51", 
-            "charges": 30, 
+            "charges": 20, 
             "contents-item": [ "shoulder_strap", "bipod", "suppressor" ] 
           },
           { "item": "762_51", "charges": 20, "container-item": "m14mag" },
